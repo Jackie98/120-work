@@ -20,7 +20,7 @@
 ***
 The only problems I personally experienced were due to my outdated Atom application, and my rusty knowledge of Markdown, which I was able to refresh with some extra reading online. I have not yet seen any technical issues posted in the forums, but when I do I will do my best to assist.
 ***
-**Is Ther Anything in Particular You Leaned?**
+**Is There Anything in Particular You Leaned?**
 ***
 I learned on the meaning and pronounciation of "GUI" on the Week 2 GUI Application page of the website:
 >Rather than introduce you to the command line, we are instead going to use a GUI-based (Graphical User Interface. Pronounced gooey) git client app. This will be introduced on the next page.
