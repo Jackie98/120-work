@@ -3,15 +3,16 @@
 ## Weekly Summary
 ***
 **Summarize the Work You Did This Homework Cycle**
-
+***
  I updated my Atom application on my desktop, and installed the recommended themes/packages.
+ ***
  **What Steps Did You Take to Complete This Assignment?**
-
+***
  I took the necessary steps of
  1.creating a new repository for the class;
  2.updating my Github desktop application and;
  3. reading through the assignment directions and tutorials to complete the assignment. All of these resources I found on the [Creative Coding Website](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/overview/).
-
+***
 **Problems & Issues**
 ***
 The only problems I personally experienced were due to my outdated Atom application, and my rusty knowledge of Markdown, which I was able to refresh with some extra reading online. I have not yet seen any technical issues posted in the forums, but when I do I will do my best to assist.
@@ -25,7 +26,8 @@ I am also interested in further learning:
 + What and how coding contributes to digital visual art
 + How often this artform is used, and:
 + How important coding is to the US economy in job creation.
-
+***
 **Did You Receive Assistance with Any Issues?**
+***
 I did not at this time reach out to my classmates for help with any issues, but know how to do so for future reference.
 ![screenshot](Screenshot.png)
