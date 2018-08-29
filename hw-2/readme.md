@@ -10,11 +10,11 @@
 ***
  I took the necessary steps of
 
- 1.creating a new repository for the class;
+ 1. creating a new repository for the class;
 
- 2.updating my Github desktop application and;
+ 2. updating my Github desktop application and;
 
- 3. reading through the assignment directions and tutorials to complete the assignment. All of these resources I found on the [Creative Coding Website](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/overview/).
+3.reading through the assignment directions and tutorials to complete the assignment. All of these resources I found on the [Creative Coding Website](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/overview/).
 ***
 **Problems & Issues**
 ***
