@@ -22,3 +22,5 @@ To complete this assignment, I did several things:
 I am not entirely satisfied with what I made, as this project was rather challenging for me, so I am intrigued to learn more about coding animation in general.
 
 I did not participate in the forum this week.
+
+![Image of my editor](screenshot.png)
