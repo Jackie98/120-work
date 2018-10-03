@@ -20,3 +20,5 @@ I did encounter an issue at first with getting implementing the "abs()" code ope
 ## What I Learned
 ---
 I learned a lot in this assignment, and while I was doing additional research, I read a lot about the use of array code that I am interestd in using further.
+
+![screenshot](screenshot.png)
