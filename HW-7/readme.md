@@ -1,6 +1,6 @@
 Jacqueline Evans-Shaw, 51
 
-[Live Sketch Link](Your Live Link)
+[https://jackie98.github.io/120-work/hw-7/](Homework 7)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
