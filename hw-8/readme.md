@@ -22,3 +22,5 @@ I would be interested in further learning how to apply loops in other coding ven
 ## Help Forums
 ---
 I have yet to look into how I can help other students this week.
+
+![screenshot](screenshot.png)
