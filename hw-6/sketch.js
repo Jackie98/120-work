@@ -70,8 +70,19 @@ function draw() {
     if (ypos > height - rad || ypos < rad) {
       ydirection*= -1;
     }
+    let xPosArr = [ 20, 30, 180, 250, 462 ];
+    let yPos = 0;
     //draw the circle
     ellipse(xpos, ypos, rad, rad);
+    background( 'rgb( 200, 37, 52 )' );
 
+    stroke( 255 );
+    fill( 'rgb( 100, 255, 0 )' );
 
-} //end algorithm
+    for( let idx = 0; idx < xPosArr.length; idx++ ) {
+        // draw some boxes!
+        rect( xPosArr[idx], yPos, 20, 40 );
+    }
+
+    yPos = (yPos + 1) % windowHeight;
+  }
