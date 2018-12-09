@@ -3,7 +3,7 @@ Jacqueline Evans-Shaw, 51
 
 ## Project Idea
 ---
-For this project, I had the idea to create a garden setup with a soundtrack.
+For this project, I had the idea to create a garden setup with a soundtrack. This decision came after being inspired by several of the final projects from last term.
 
 ## Work Cycle
 ---
