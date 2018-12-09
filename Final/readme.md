@@ -3,7 +3,7 @@ Jacqueline Evans-Shaw, 51
 
 ## Project Idea
 ---
-For this project, I had the idea to create a garden setup with a soundtrack. This decision came after being inspired by several of the final projects from last term.
+For this project, I had the idea to create a garden setup with a soundtrack. This decision came after being inspired by several of the final projects from last term. This project occurred over a period of three weeks; in the first week I spent a good deal of time sketching the canvas and programming the music, which challenged and frustrated me. The second week was spent programming the music and designing the rest of the "garden" landscape. The third week was spent polishing up the code, and adding final elements like the sun and mountains.
 
 ## Work Cycle
 ---
@@ -13,10 +13,11 @@ It took me several tries to set up the canvas and the moving element of the sket
 - I designed the subsequent flower stalks;
 - I designed the mountains and sun in the distance;
 - I designed the conceptual "petals" around all three flowers.
+It took me multiple tries to program the flower centers and petals so they were positioned in front of the stems as well.
 
 ## Issues
 ---
-In this project, I encountered multiple setbacks, first with coding the music. After getting help for this problem, I found I was not properly calling the p5js Library that would allow the music to play. After this was fixed, I needed further assistance with coding my backdrop that represented grass in the sketch, which took several tries (but after a lot of help and hard work, we got it!). Further, I was unable to programming mouse-click interactions into the garden like I had hoped, mostly because I was unfamiliar with how to work the mechanics into the code (also, I had been told it would be acceptable to leave out the interaction). Even so, it would have been interesting to see how interaction would have changed the sketch, but overall I am satisfied with what I was able to produce.
+In this project, I encountered multiple setbacks, first with coding the music. After getting help for this problem, I found I was not properly calling the p5js Library that would allow the music to play. After this was fixed, I needed further assistance with coding my backdrop that represented grass in the sketch, which took several tries (but after a lot of help and hard work, we got it!). I also experienced some issues with elements disappearing from the sketch when new ones were added, like missing flowers, etc. Further, I was unable to programming mouse-click interactions into the garden like I had hoped, mostly because I was unfamiliar with how to work the mechanics into the code (also, I had been told it would be acceptable to leave out the interaction). Even so, it would have been interesting to see how interaction would have changed the sketch, but overall I am satisfied with what I was able to produce.
 
 This piece in general was a challenge for me because I'm used to creating simpler, more abstract sketches; but the help I received was pivotal in showing me my strengths and weaknesses when working with code, and I feel more confident and excited to pursue coding-based art, now that I had become more comfortable with it and have seen what I can do with it.
 
